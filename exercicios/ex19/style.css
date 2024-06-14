@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(155, 255, 185);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgb(6, 185, 60);
+}
+
+#principal {
+    text-align: center;
+    color: rgb(171, 11, 163);
+    background-color: rgba(6, 109, 46, 0.534);
+}
+
+
+
+h2 {
+    color: rgb(2, 114, 36);
+}
+
+.basico {
+    color: rgb(53, 110, 61);
+}
+
+.intermediario {
+    color: rgb(238, 255, 0);
+}
+
+.avançado {
+    color: rgb(255, 0, 0);
+}
+
+.explicação-aprendendo-colorida {
+    background-color: rgba(0, 0, 255, 0.249);
+}
